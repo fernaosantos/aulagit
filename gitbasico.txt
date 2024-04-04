@@ -1,0 +1,8 @@
+primeiro arquivo de introdução ao GIT.
+
+git add . -> adiciona tudo no diretório corrent.
+git clone -> copia um repositorio
+git pull <nomedorepo> obtem a ultima versao do repo   
+git commit <arquivo+comentario> gravar na versao em uso a proxima versao+conteudo novo
+
+: wq! -> sequencia para o editor de texto no commit   
