@@ -6,3 +6,5 @@ git pull <nomedorepo> obtem a ultima versao do repo
 git commit <arquivo+comentario> gravar na versao em uso a proxima versao+conteudo novo
 
 : wq! -> sequencia para o editor de texto no commit   
+
+ja fiz upload direto no git
